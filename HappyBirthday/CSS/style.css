@@ -1,0 +1,118 @@
+
+
+
+
+
+
+body.fon{
+	background-image: url(../IMAGE/fon_stock_2.jpg) ;
+
+	width: 98%;
+	background-size: 12%;
+}
+
+h1{
+	text-align: center;
+	font-size: 55px;
+	color:#fff;
+	border: 10px double #fff;
+	border-radius: 5%;
+	background-color: #333;
+}
+p{
+	text-align: center;
+	font-size: 27px;
+	color: #fff;
+	border: 10px double #fff;
+	border-radius: 5%;
+	background-color: #333;
+}
+.container{
+	max-width: 1200px;
+	margin: 0px auto;
+	padding: 0px 15px;
+}
+@media (max-width: 1200px;){
+	.container{
+		max-width: 970px;
+	}
+}
+@media (max-width: 992px;){
+	.container{
+		max-width: 750px;
+	}
+}
+@media (max-width: 767px;){
+	.container{
+		max-width: none;
+		
+	}
+}
+
+
+
+a{
+	background-color: #333;
+	text-decoration: none;
+	
+	padding: 10px 20px;
+	
+	color:#fff;
+
+	
+	border: 10px double #fff;
+	border-radius: 48%;
+	
+	z-index: 2;
+}
+
+
+
+.block_001:hover{
+	color: red;
+
+}
+
+
+.block_02:hover{
+	color: yellow;
+}
+
+
+.block_03:hover{
+	color: green;
+}
+
+.block_04:hover{
+	color: blue;
+}
+
+
+.block_05:hover{
+	color: cyan;
+}
+
+.block_06:hover{
+	color: orange;
+}
+
+.block_07:hover{
+		color:grey ;
+}
+
+.block_08:hover{
+		color:red ;
+}
+
+.block_09:hover{
+		color:cyan ;
+}
+
+.block_10:hover{
+		color:yellow ;
+}
+
+}
+.block_11:hover{
+		color:green ;
+}

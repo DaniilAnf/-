@@ -1,0 +1,93 @@
+body{
+	background: url(../IMAGE/fnd_03.jpg)center  no-repeat;
+	width: 98%;
+	text-align: center;
+	
+}
+.header{
+	background-color: #333;
+	text-align: center;
+	font-size: 55px;
+	color: #fff;
+	border: 10px double #fff;
+	width: 76%;
+	border-radius: 2%;
+	z-index: 2;
+	margin: 0px auto;
+
+
+}
+.container{
+	max-width: 1200px;
+	margin: 0px auto;
+	padding: 0px 15px;
+}
+@media (max-width: 1200px;){
+	.container{
+		max-width: 970px;
+	}
+}
+@media (max-width: 992px;){
+	.container{
+		max-width: 750px;
+	}
+}
+@media (max-width: 767px;){
+	.container{
+		max-width: none;
+	}
+}
+
+
+
+
+
+
+a{
+	color: #fff;
+	text-decoration: none;
+	text-align: center;
+	
+	font-size: 30px;
+}
+a:hover{
+	color: cyan;
+}
+.button_01{
+	background-color: #222;
+	
+	
+	
+	text-align: center;
+	padding: 20px;
+	width: 40%;
+	height: 5%;
+	margin: 0px auto;
+	
+
+	
+
+	border: 10px double #fff;
+	
+	z-index: 2;
+}
+
+
+.button_02{
+	background-color: #222;
+	
+	
+	margin: 0px auto;
+	text-align: center;
+	padding: 20px;
+	width: 40%;
+	height: 5%;
+	
+	
+
+	
+
+	border: 10px double #fff;
+	
+	z-index: 2;
+}

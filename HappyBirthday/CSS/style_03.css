@@ -1,0 +1,80 @@
+body.fon{
+	background-image: url(../IMAGE/fon_grandfather.jpg);
+
+	width: 98%;
+	background-size: 100%;
+}
+
+h1{
+	text-align: center;
+	font-size: 55px;
+	color:#fff;
+}
+p{
+	text-align: center;
+	font-size: 27px;
+	color: #fff;
+}
+
+
+a{
+	background-color: #333;
+	text-decoration: none;
+
+	padding: 10px 20px;
+	
+	color:#fff;
+
+	
+	border: 10px double #fff;
+	
+	
+	z-index: 2;
+}
+
+
+.block_001:hover{
+	color: red;
+}
+
+.block_02:hover{
+	color: yellow;
+}
+
+
+.block_03:hover{
+	color: green;
+}
+
+.block_04:hover{
+	color: blue;
+}
+
+
+.block_05:hover{
+	color: cyan;
+}
+
+.block_06:hover{
+	color: orange;
+}
+
+.block_07:hover{
+		color:grey ;
+}
+
+.block_08:hover{
+		color:red ;
+}
+
+.block_09:hover{
+		color:cyan ;
+}
+
+.block_10:hover{
+		color:yellow ;
+}
+
+.block_11:hover{
+		color:green ;
+}
